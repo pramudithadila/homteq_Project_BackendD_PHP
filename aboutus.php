@@ -36,7 +36,6 @@ stop kneading.
 Because virtual assistants live in a speaker with a microphone, they’re present in your home whenever you need them.  
  
 Whatever smart tech you are after, homteq has it on offer!"; 
-
 include("footfile.html");     
 echo "</body>"; 
 ?> 
