@@ -1,5 +1,5 @@
 <?php 
-$dbhost = 'root'; 
+$dbhost = 'localhost'; 
 $dbuser = 'yourWestminsterID'; 
 $dbpass = 'yourMySQLRandomPwd'; 
 $dbname = 'yourWestminsterID_0'; 
